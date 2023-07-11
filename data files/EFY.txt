@@ -1,0 +1,50 @@
+EFY
+
+How to convert Chat Gpt to Voice Gpt? (voice assistant)
+NLP (Natural Language  processing)
+use Api keys from Chat gpt
+use raspberry pi
+
+next install libraries like
+ pip install openai
+ pip install speechrecognition
+ pip install gTTs
+
+next programming chatgpt to be used as voicegpt
+
+
+R: series profiling (another topic go through this)
+
+
+
+Testing
+OWASP- security testing - ZED Attack proxy tool for OWASP testing
+DAST- Dynamic application security testing
+SAST- static application security testing
+cross-siting-scripts(XSS)
+
+Runnig web application in a minikube cluster`
+
+tools for DAST: Acunetix & GuardRails
+
+
+Different types of cookies
+1.Session cookies- store information till you exit the browser
+2.First-party cookies - stored directly on your computer used for logins and auto-fill data
+3.Secure cookies- prevent unauthorised entry
+4.Zombie cookies-  present when they have been deleted or the browser is exited. This presence of cookies leads to unauthorised information this needs to be prevent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
